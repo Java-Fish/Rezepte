@@ -1,0 +1,61 @@
+{
+  "Vorbereitungszeit": "10 Minuten",
+  "Zubereitungszeit": "40 Minuten",
+  "Arbeitszeit": "50 Minuten",
+  "Gericht": ["Dessert", "Frühstück", "Kleinigkeit", "Nachspeise", "Snack", "Snacks"],
+  "Land_Region": "Deutsch",
+  "Zutaten": {
+    "Teig": [
+      "250 g Karotten",
+      "125 g (vegane) Butter zimmerwarm (oder Kokosöl)",
+      "100 g Zucker oder Ahornsirup",
+      "1 Prise Salz",
+      "1 Prise gemahlene Vanille",
+      "2 (Leinsamen-) Eier",
+      "½ TL Zimt",
+      "100 g Mandeln gemahlen",
+      "125 g Mehl",
+      "1 TL Apfelessig",
+      "1,5 TL Backpulver",
+      "½ TL Natron"
+    ],
+    "Creme": [
+      "200 g (veganer) Frischkäse (z.B. Streichgenuss)",
+      "80 g Puderzucker",
+      "1 Spritzer Zitronensaft",
+      "etwas gemahlene Vanille"
+    ]
+  },
+  "Zubereitung": [
+    "Backofen auf 180 °C Ober- und Unterhitze vorheizen. Eine 18 oder 20 cm Springform mit Butter oder Öl einfetten.",
+    "Karotten schälen und fein reiben.",
+    "Butter mit Zucker, Salz und Vanille cremig aufschlagen. Karotten und (Leinsamen-) Eier unterrühren.",
+    "Mehl, Zimt und Backpulver dazusieben. Gemahlene Mandeln, Natron und Essig ebenfalls hinzufügen. Alles kurz zu einem Teig verrühren.",
+    "Teig in die Springform füllen, glattstreichen und 35–40 Minuten auf mittlerer Schiene backen (Stäbchenprobe machen!).",
+    "Kuchen herausnehmen, 10 Minuten auf einem Kuchengitter abkühlen lassen, aus der Form lösen und vollständig auskühlen lassen.",
+    "Für die Creme alle Zutaten mit einem Handrührgerät glatt mixen und auf den Kuchen streichen.",
+    "Nach Belieben mit Marzipankarotten und gehackten Pistazien verzieren.",
+    "Bis zum Verzehr im Kühlschrank kaltstellen (hält sich 3–4 Tage saftig)."
+  ],
+  "Tipps": [
+    "2 Leinsamen-Eier: 2 EL gemahlene Leinsamen mit 6 EL heißem Wasser verrühren und 5–10 Minuten quellen lassen.",
+    "Alternativ statt Eier: 100 g Apfelmark oder Bananen- bzw. Kürbispüree.",
+    "Statt Weizen- oder Dinkelmehl: glutenfreie Mehlmischung 1:1 möglich.",
+    "Eine Mischung aus hellem Mehl und Vollkornmehl funktioniert gut, nur Vollkornmehl alleine macht den Kuchen zu kompakt.",
+    "Als Frosting kann auch geschlagene Kokos-Creme verwendet werden."
+  ],
+  "Nährwerte_pro_Stück": {
+    "Portion": "1 Stück (von 12)",
+    "Kalorien": "196 kcal",
+    "Kohlenhydrate": "20.7 g",
+    "Eiweiß": "3.4 g",
+    "Fett": "11.7 g",
+    "Gesättigte Fettsäuren": "2.1 g",
+    "Natrium": "184.3 mg",
+    "Kalium": "95.2 mg",
+    "Ballaststoffe": "2.2 g",
+    "Zucker": "9.7 g",
+    "Kalzium": "60.5 mg",
+    "Eisen": "1 mg"
+  }
+}
